@@ -1,8 +1,9 @@
-## 👇 **Ideas For a application project** 👇
+## 💡 **Ideas For a application project** 💡
 
-[![Pinankh](https://github.com/Pinankh/IdeasForAppProject/blob/main/app-ideas.png)]
 
-# :ledger: App Ideas Collection
+
+
+# 💡 App Ideas Collection
 
 Have you ever wanted to build something but you had no idea what to do? Just as
 authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
